@@ -172,6 +172,10 @@ public class Prorratas {
             }
             nombreLineas[i] = TxtTemp1[i];
         }
+        
+        
+        
+        
 
         /*
          * lee Lineas Troncales
